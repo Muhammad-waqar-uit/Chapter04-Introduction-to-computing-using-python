@@ -1,0 +1,1 @@
+6 student got A 5 student got A- 3 student got B+ 2 student got B 2 student got B- 4 student got C 1 student got C- 2 student got F
